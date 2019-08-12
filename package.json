@@ -1,0 +1,9 @@
+{
+  "name": "gh_watch_or_not",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@octokit/rest": "latest",
+    "chalk": "^2.4.2"
+  }
+}
